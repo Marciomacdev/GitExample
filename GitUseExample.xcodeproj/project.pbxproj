@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0FB9674F1EA0F994001A03D5 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FB9674E1EA0F994001A03D5 /* MapForItinerary.swift */; };
 		0FEB983D1E9D4536002B9BDF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEB983C1E9D4536002B9BDF /* AppDelegate.swift */; };
 		0FEB983F1E9D4536002B9BDF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FEB983E1E9D4536002B9BDF /* ViewController.swift */; };
 		0FEB98421E9D4536002B9BDF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FEB98401E9D4536002B9BDF /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0FB9674E1EA0F994001A03D5 /* MapForItinerary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		0FEB98391E9D4536002B9BDF /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FEB983C1E9D4536002B9BDF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FEB983E1E9D4536002B9BDF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				0FEB983C1E9D4536002B9BDF /* AppDelegate.swift */,
 				0FEB983E1E9D4536002B9BDF /* ViewController.swift */,
+				0FB9674E1EA0F994001A03D5 /* MapForItinerary.swift */,
 				0FEB98401E9D4536002B9BDF /* Main.storyboard */,
 				0FEB98431E9D4536002B9BDF /* Assets.xcassets */,
 				0FEB98451E9D4536002B9BDF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				0FEB983F1E9D4536002B9BDF /* ViewController.swift in Sources */,
 				0FEB983D1E9D4536002B9BDF /* AppDelegate.swift in Sources */,
+				0FB9674F1EA0F994001A03D5 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +308,7 @@
 				0FEB984D1E9D4536002B9BDF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
